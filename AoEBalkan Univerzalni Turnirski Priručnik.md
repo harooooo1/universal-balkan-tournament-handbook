@@ -181,6 +181,7 @@ Ako vam treba pomoć tokom turnira, kontaktirajte bilo koga s ovim ulogama.
 ### Točnost
 
 - Igrači moraju biti spremni za početak u zakazano vrijeme
+- **Za svakih 10 minuta kašnjenja bez obavijesti**, igrač koji kasni gubi 1 igru seta
 - **20+ minuta kašnjenja bez obavijesti**: Protivnik osvaja set, osim ako ne pristane na preraspodjelu termina
 - Ako oba igrača kasne, riješite to među sobom ili kontaktirajte admina
 
@@ -753,6 +754,7 @@ Ako se prihvaćaju donacije:
 
 | Prekršaj | Kazna |
 |----------|-------|
+| Kašnjenje na meč (po 10 min) | Gubitak 1 igre za svakih 10 minuta kašnjenja |
 | Kašnjenje na meč (20+ min) | Protivnik osvaja set (osim ako se dogovori preraspodjela) |
 | Nepojavljivanje bez obavijesti | Protivnik osvaja set + potencijalna diskvalifikacija |
 | Stream sniping | Diskvalifikacija |
@@ -863,6 +865,7 @@ Admini mogu primijeniti bilo koju kaznu koju smatraju prikladnom. Ovo uključuje
 - U playoffu, bolji plasman = Host
 
 ### Točnost
+- Svakih 10 min kašnjenja = gubitak 1 igre
 - 20 min kašnjenja = protivnik osvaja set (osim ako pristanu na preraspodjelu)
 
 ### Restarti

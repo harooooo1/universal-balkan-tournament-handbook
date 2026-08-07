@@ -181,6 +181,7 @@ If you need help during a tournament, contact anyone with these roles.
 ### Punctuality
 
 - Players must be ready to start at the scheduled time
+- **For every 10 minutes late without notice**, the late player loses 1 game of the set
 - **20+ minutes late without notice**: Opponent wins the set, unless they agree to reschedule
 - If both players are late, work it out between yourselves or contact an admin
 
@@ -753,6 +754,7 @@ If donations are accepted:
 
 | Violation | Penalty |
 |-----------|---------|
+| Late to match (per 10 min) | Lose 1 game per 10 minutes late |
 | Late to match (20+ min) | Opponent wins the set (unless reschedule agreed) |
 | No-show without notice | Opponent wins the set + potential disqualification |
 | Stream sniping | Disqualification |
@@ -863,6 +865,7 @@ Admins may apply any penalty they deem appropriate. This includes situations not
 - In playoffs, better placement = Host
 
 ### Punctuality
+- Every 10 min late = lose 1 game
 - 20 min late = opponent wins the set (unless they agree to reschedule)
 
 ### Restarts
