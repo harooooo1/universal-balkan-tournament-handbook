@@ -146,8 +146,8 @@ In such cases, admins may use community knowledge, past tournament performance, 
 
 ### Communication
 
-- All official tournament communication must be in **English**
-- Players who cannot communicate in English may designate a representative
+- Tournament communication is expected in **Balkan languages** (Bosnian, Serbian, Croatian, Montenegrin)
+- If someone doesn't speak these languages, use English or another common language
 - Players must respond to scheduling messages within **24 hours**
 - All match times and drafts must be posted in the designated Discord channel
 

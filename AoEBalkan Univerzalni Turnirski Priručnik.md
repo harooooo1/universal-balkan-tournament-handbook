@@ -146,8 +146,8 @@ U takvim slučajevima, admini mogu koristiti poznavanje zajednice, prošle turni
 
 ### Komunikacija
 
-- Sva službena turnirska komunikacija mora biti na **engleskom**
-- Igrači koji ne mogu komunicirati na engleskom mogu odrediti predstavnika
+- Turnirska komunikacija se očekuje na **balkanskim jezicima** (bosanski, srpski, hrvatski, crnogorski)
+- Ako neko ne govori te jezike, koristite engleski ili drugi zajednički jezik
 - Igrači moraju odgovoriti na poruke o zakazivanju unutar **24 sata**
 - Sva vremena mečeva i draftovi moraju biti objavljeni u određenom Discord kanalu
 
