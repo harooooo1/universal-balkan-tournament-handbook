@@ -115,7 +115,7 @@ Choose one method and apply it consistently:
 
 - Account should have a reasonable number of games for accurate rating
 
-**Alternative**: For tournaments with mostly established competitive players, use [AoE Tournament Elo](https://aoe-elo.com/) rankings.
+
 
 #### For Team Game Tournaments
 
@@ -815,7 +815,6 @@ Admins may apply any penalty they deem appropriate. This includes situations not
 
 - **AoE2 Insights**: [aoe2insights.com](https://aoe2insights.com) — player profiles and detailed stats
 - **AoE2.gg**: [aoe2.gg](https://aoe2.gg/) — alternative if aoe2insights is down
-- **AoE Tournament Elo**: [aoe-elo.com](https://aoe-elo.com) — tournament rankings
 
 ### Game Resources
 

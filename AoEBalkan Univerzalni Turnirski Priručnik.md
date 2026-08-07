@@ -115,7 +115,7 @@ Odaberite jednu metodu i primjenjujte je konzistentno:
 
 - Account bi trebao imati razuman broj igara za točan rating
 
-**Alternativa**: Za turnire s uglavnom etabliranim kompetitivnim igračima, koristite [AoE Tournament Elo](https://aoe-elo.com/) rangiranja.
+
 
 #### Za Team Game Turnire
 
@@ -815,7 +815,6 @@ Admini mogu primijeniti bilo koju kaznu koju smatraju prikladnom. Ovo uključuje
 
 - **AoE2 Insights**: [aoe2insights.com](https://aoe2insights.com) — profili igrača i detaljne statistike
 - **AoE2.gg**: [aoe2.gg](https://aoe2.gg/) — alternativa ako aoe2insights ne radi
-- **AoE Tournament Elo**: [aoe-elo.com](https://aoe-elo.com) — turnirska rangiranja
 
 ### Resursi za Igru
 
