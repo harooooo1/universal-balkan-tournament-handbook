@@ -640,11 +640,10 @@ Svi sudionici moraju:
 - Gledanje protivnikovog streama tokom igre je **strogo zabranjeno**
 - Ovo se smatra varanjem i rezultira trenutnom diskvalifikacijom
 
-### Privatni Mečevi
+### Javnost Mečeva
 
-- Neki mečevi se mogu igrati privatno za kasnije emitiranje
-- Igrači ne smiju otkrivati rezultate prije emitiranja
-- Snimljene igre moraju biti poslane odmah nakon seta
+- Mečevi se po defaultu igraju **javno** — bilo ko može spectateati
+- Privatni mečevi za kasnije rec castanje su rijetki i koriste se samo u posebnim prilikama uz dogovor s adminima
 
 ---
 

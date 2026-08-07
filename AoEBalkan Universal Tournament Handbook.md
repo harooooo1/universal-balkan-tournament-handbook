@@ -640,11 +640,10 @@ All participants must:
 - Watching opponent's stream during a game is **strictly forbidden**
 - This is considered cheating and results in immediate disqualification
 
-### Private Matches
+### Match Visibility
 
-- Some matches may be played privately for later broadcast
-- Players must not reveal results before the broadcast
-- Recorded games must be submitted immediately after the set
+- Matches are played **publicly** by default — anyone can spectate
+- Private matches for later rec casting are rare and only used on special occasions with admin approval
 
 ---
 
