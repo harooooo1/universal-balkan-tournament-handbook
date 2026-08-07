@@ -173,7 +173,7 @@ If you need help during a tournament, contact anyone with these roles.
 
 - Players should contact opponents as early as possible
 - Provide multiple available time slots, not just one
-- Matches should be scheduled with at least **24 hours notice**
+- Players are encouraged to schedule matches with at least **24 hours notice**
 - Use [Crab Fit](https://crab.fit/) to find common availability
 - Use [Discord Timestamps](https://r.3v.fi/discord-timestamps/) for timezone-proof times
 - **After scheduling, notify an admin** to create a Seshbot event for the match time — this applies to all matches, regardless of whether they will be casted or not
