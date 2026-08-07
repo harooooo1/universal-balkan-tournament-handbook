@@ -130,9 +130,9 @@ Odaberite jednu metodu i primjenjujte je konzistentno:
 - Dozvolite igračima da ospore očite greške prije izvlačenja grupa
 - Ako niže seediran igrač pobijedi više seediranog igrača, nasljeđuje taj seed za naredne runde
 
-### Etablirani Igrači Bez Nedavne Ranked Aktivnosti
+### Poznati Igrači Bez Nedavne Ranked Aktivnosti
 
-Za igrače s etabliranim imenima u AoEBalkan zajednici koji su igrali na nekoliko prethodnih turnira ili su dugo aktivni u zajednici, organizatori mogu koristiti alternativne kriterije osim samo Elo-a. Ovo je posebno relevantno za:
+Za igrače s poznatim imenima u AoEBalkan zajednici koji su igrali na nekoliko prethodnih turnira ili su dugo aktivni u zajednici, organizatori mogu koristiti alternativne kriterije osim samo Elo-a. Ovo je posebno relevantno za:
 
 - Igrače koji ne igraju ranked igre redovno
 - TG-only igrače koji sudjeluju na team game turnirima
