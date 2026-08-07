@@ -130,6 +130,16 @@ Choose one method and apply it consistently:
 - Allow players to dispute obvious errors before groups are drawn
 - If a lower-seeded player defeats a higher-seeded player, they inherit that seed for subsequent rounds
 
+### Established Players Without Recent Ranked Activity
+
+For players with established names in AoEBalkan who have played in several previous tournaments or have been active in the community for a long time, organizers may use alternative criteria beyond just Elo. This is especially relevant for:
+
+- Players who don't play ranked games regularly
+- TG-only players participating in team game tournaments
+- Players whose current Elo doesn't reflect their actual skill level
+
+In such cases, admins may use community knowledge, past tournament performance, or peer assessment to adjust seeding.
+
 ---
 
 ## 4. Scheduling & Punctuality
