@@ -176,7 +176,7 @@ Ako vam treba pomoć tokom turnira, kontaktirajte bilo koga s ovim ulogama.
 - Poželjno je zakazati mečeve s najmanje **24 sata unaprijed**
 - Koristite [Crab Fit](https://crab.fit/) za pronalazak zajedničke dostupnosti
 - Koristite [Discord Timestamps](https://r.3v.fi/discord-timestamps/) za vremena koja se prikazuju u lokalnoj vremenskoj zoni
-- **Nakon zakazivanja, obavijestite admina** da kreira Seshbot event za vrijeme meča — ovo vrijedi za sve mečeve, bez obzira hoće li biti castani ili ne
+- **Nakon zakazivanja, obavijestite admina** da kreira Seshbot event za vrijeme meča — ovo je uglavnom za mečeve koji će biti castani, ali ne škodi dodati event za bilo koji meč kako bi drugi znali kada mogu gledati
 
 ### Točnost
 
