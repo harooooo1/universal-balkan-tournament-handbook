@@ -181,9 +181,18 @@ Ako vam treba pomoć tokom turnira, kontaktirajte bilo koga s ovim ulogama.
 ### Točnost
 
 - Igrači moraju biti spremni za početak u zakazano vrijeme
-- **Za svakih 10 minuta kašnjenja bez obavijesti**, igrač koji kasni gubi 1 igru seta (10 min = -1 igra, 20 min = -2 igre, 30 min = -3 igre, itd.)
+
+**1v1 Mečevi:**
+- Ako jedan igrač kasni, a drugome ne smeta, mogu se međusobno dogovoriti za novi termin ili jednostavno početi kasnije — bez kazne
+- Ako igrač koji čeka želi primijeniti kazne, kontaktirajte admina
+- Obojica kasnite? Dogovorite se među sobom
+
+**Timske Igre (2v2, 3v3, 4v4):**
+- Pravila točnosti su stroža jer kašnjenje utječe na mnogo igrača (do 7 drugih) plus kastere
+- **Za svakih 10 minuta kašnjenja bez obavijesti**, igrač/tim koji kasni gubi 1 igru seta (10 min = -1 igra, 20 min = -2 igre, 30 min = -3 igre, itd.)
 - Ako kazna prelazi broj igara potrebnih za pobjedu, protivnik osvaja set
-- Ako oba igrača kasne, riješite to među sobom ili kontaktirajte admina
+
+> Shit happens — nismo profesionalci. Ova pravila postoje da bi se poštovalo vrijeme svih, ne da bi se ljude nepravedno kažnjavalo. Kad si u nedoumici, komuniciraj i kontaktiraj admina.
 
 ### Setovi Moraju Biti Odigrani U Potpunosti
 
@@ -754,7 +763,8 @@ Ako se prihvaćaju donacije:
 
 | Prekršaj | Kazna |
 |----------|-------|
-| Kašnjenje na meč | Gubitak 1 igre za svakih 10 minuta kašnjenja |
+| Kašnjenje na meč (TG) | Gubitak 1 igre za svakih 10 minuta kašnjenja |
+| Kašnjenje na meč (1v1) | Dogovor između igrača; kazne na zahtjev |
 | Nepojavljivanje bez obavijesti | Protivnik osvaja set + potencijalna diskvalifikacija |
 | Stream sniping | Diskvalifikacija |
 | Pogrešan civ pickan | Restart, protivnik bira vaš civ |
