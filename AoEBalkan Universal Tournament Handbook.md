@@ -183,16 +183,16 @@ If you need help during a tournament, contact anyone with these roles.
 - Players must be ready to start at the scheduled time
 
 **1v1 Matches:**
-- If one player is late and the other doesn't mind, they can mutually agree to reschedule or simply start later — no penalty needed
-- If the waiting player wants to enforce penalties, contact an admin
-- Both players late? Work it out between yourselves
+- If one player is late and the other agrees to wait, they may start later without penalty
+- If the waiting player wishes to enforce penalties, contact an admin
+- If both players are late, resolve it between yourselves or contact an admin
 
 **Team Games (2v2, 3v3, 4v4):**
-- Punctuality rules are stricter because delays affect many players (up to 7 others) plus casters
+- Punctuality is enforced more strictly because delays affect multiple players and casters
 - **For every 10 minutes late without notice**, the late player/team loses 1 game of the set (10 min = -1 game, 20 min = -2 games, 30 min = -3 games, etc.)
 - If the penalty exceeds the games needed to win, the opponent wins the set
 
-> Life happens — we're not pros. These rules exist to respect everyone's time, not to punish people unfairly. When in doubt, communicate and contact an admin.
+> When in doubt, communicate early and contact an admin.
 
 ### Sets Must Be Played Completely
 
@@ -763,7 +763,7 @@ If donations are accepted:
 
 | Violation | Penalty |
 |-----------|---------|
-| Late to match (TG) | Lose 1 game per 10 minutes late |
+| Late to match (TG) | Lose 1 game per 10 minutes late (stricter rule) |
 | Late to match (1v1) | Player agreement; penalties on request |
 | No-show without notice | Opponent wins the set + potential disqualification |
 | Stream sniping | Disqualification |

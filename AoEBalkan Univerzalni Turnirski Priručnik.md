@@ -183,16 +183,16 @@ Ako vam treba pomoć tokom turnira, kontaktirajte bilo koga s ovim ulogama.
 - Igrači moraju biti spremni za početak u zakazano vrijeme
 
 **1v1 Mečevi:**
-- Ako jedan igrač kasni, a drugome ne smeta, mogu se međusobno dogovoriti za novi termin ili jednostavno početi kasnije — bez kazne
+- Ako jedan igrač kasni, a drugi pristaje čekati, mogu početi kasnije bez kazne
 - Ako igrač koji čeka želi primijeniti kazne, kontaktirajte admina
-- Obojica kasnite? Dogovorite se među sobom
+- Ako obojica kasne, riješite to među sobom ili kontaktirajte admina
 
 **Timske Igre (2v2, 3v3, 4v4):**
-- Pravila točnosti su stroža jer kašnjenje utječe na mnogo igrača (do 7 drugih) plus kastere
+- Točnost se strože provodi jer kašnjenje utječe na više igrača i kastere
 - **Za svakih 10 minuta kašnjenja bez obavijesti**, igrač/tim koji kasni gubi 1 igru seta (10 min = -1 igra, 20 min = -2 igre, 30 min = -3 igre, itd.)
 - Ako kazna prelazi broj igara potrebnih za pobjedu, protivnik osvaja set
 
-> Shit happens — nismo profesionalci. Ova pravila postoje da bi se poštovalo vrijeme svih, ne da bi se ljude nepravedno kažnjavalo. Kad si u nedoumici, komuniciraj i kontaktiraj admina.
+> Kada si u nedoumici, komuniciraj na vrijeme i kontaktiraj admina.
 
 ### Setovi Moraju Biti Odigrani U Potpunosti
 
@@ -763,7 +763,7 @@ Ako se prihvaćaju donacije:
 
 | Prekršaj | Kazna |
 |----------|-------|
-| Kašnjenje na meč (TG) | Gubitak 1 igre za svakih 10 minuta kašnjenja |
+| Kašnjenje na meč (TG) | Gubitak 1 igre za svakih 10 minuta kašnjenja (strože pravilo) |
 | Kašnjenje na meč (1v1) | Dogovor između igrača; kazne na zahtjev |
 | Nepojavljivanje bez obavijesti | Protivnik osvaja set + potencijalna diskvalifikacija |
 | Stream sniping | Diskvalifikacija |
